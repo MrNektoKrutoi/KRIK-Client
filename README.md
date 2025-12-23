@@ -20,7 +20,7 @@
 | `start.exe` | **Лаунчер.** Запускает Minecraft с аргументами агента и инжектором. | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) |
 | `install.exe` | **Установщик.** Загружает зависимости Minecraft 1.16.5. | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) |
 | `KRIK_3.1.0.dll` | **Ядро чита.** Скомпилированная JVM TI библиотека. | ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white) |
-| `nickname.TXT` | **Конфиг.** Файл для указания вашего никнейма перед запуском. | ![TXT](https://img.shields.io/badge/TXT-📄-gray?style=flat) |
+| `nickname.TXT` | **Конфиг.** Файл для указания вашего никнейма перед запуском. | ![TXT](https://img.shields.io/badge/TXT-gray?style=flat) |
 | `authlib-injector.jar` | **Authlib.** Позволяет играть без лицензии и видеть скины. | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white) |
 
 ---
