@@ -1,4 +1,4 @@
-# KRIK Client (JVM TI) | Minecraft 1.16.5
+# KRIK Cheat client (JVM TI) | Minecraft 1.16.5
 
 [![Telegram Channel](https://img.shields.io/badge/Telegram-Channel-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/KRIK_TGK)
 [![Download Release](https://img.shields.io/badge/Download-Release-brightgreen?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MrNektoKrutoi/KRIK-Client/releases/download/1.16.5/KRIK_Client.zip)
