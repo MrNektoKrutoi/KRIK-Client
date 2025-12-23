@@ -1,12 +1,5 @@
 # KRIK Client (JVM TI) | Minecraft 1.16.5
 
-[![Telegram Channel](https://img.shields.io/badge/Telegram-Channel-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/KRIK_TGK)
-[![Download Release](https://img.shields.io/badge/Download-Release-brightgreen?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MrNektoKrutoi/KRIK-Client/releases/download/1.16.5/KRIK_Client.zip)
-
-![Version](https://img.shields.io/badge/Version-3.1.0-blue?style=for-the-badge&logo=c%2B%2B)
-![Minecraft](https://img.shields.io/badge/Minecraft-1.16.5-green?style=for-the-badge&logo=minecraft)
-![Type](https://img.shields.io/badge/Type-JVM__TI_Agent-red?style=for-the-badge)
-
 **KRIK Client** — это продвинутый нативный чит-клиент для Minecraft версии 1.16.5. В отличие от обычных модов (Fabric/Forge), KRIK работает через **JVM Tool Interface (JVM TI)**, загружаясь как нативная библиотека (`.dll`). Это обеспечивает максимальную производительность, обход многих античитов и гибкость в работе.
 
 ---
@@ -34,5 +27,10 @@
 5.  Запустите **`start.exe`**.
 
 ---
+[![Telegram Channel](https://img.shields.io/badge/Telegram-Channel-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/KRIK_TGK)
+[![Download Release](https://img.shields.io/badge/Download-Release-brightgreen?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MrNektoKrutoi/KRIK-Client/releases/download/1.16.5/KRIK_Client.zip)
 
+![Version](https://img.shields.io/badge/Version-3.1.0-blue?style=for-the-badge&logo=c%2B%2B)
+![Minecraft](https://img.shields.io/badge/Minecraft-1.16.5-green?style=for-the-badge&logo=minecraft)
+![Type](https://img.shields.io/badge/Type-JVM__TI_Agent-red?style=for-the-badge)
 [GitHub Releases](https://github.com/MrNektoKrutoi/KRIK-Client/releases)
