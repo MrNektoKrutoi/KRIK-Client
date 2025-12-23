@@ -33,4 +33,5 @@
 ![Version](https://img.shields.io/badge/Version-3.1.0-blue?style=for-the-badge&logo=c%2B%2B)
 ![Minecraft](https://img.shields.io/badge/Minecraft-1.16.5-green?style=for-the-badge&logo=minecraft)
 ![Type](https://img.shields.io/badge/Type-JVM__TI_Agent-red?style=for-the-badge)
+
 [GitHub Releases](https://github.com/MrNektoKrutoi/KRIK-Client/releases)
