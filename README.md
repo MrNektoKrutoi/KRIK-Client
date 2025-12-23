@@ -1,5 +1,8 @@
 # KRIK Client (JVM TI) | Minecraft 1.16.5
 
+[![Telegram Channel](https://img.shields.io/badge/Telegram-Channel-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/KRIK_TGK)
+[![Download Release](https://img.shields.io/badge/Download-Release-brightgreen?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MrNektoKrutoi/KRIK-Client/releases/download/1.16.5/KRIK_Client.zip)
+
 ![Version](https://img.shields.io/badge/Version-3.1.0-blue?style=for-the-badge&logo=c%2B%2B)
 ![Minecraft](https://img.shields.io/badge/Minecraft-1.16.5-green?style=for-the-badge&logo=minecraft)
 ![Type](https://img.shields.io/badge/Type-JVM__TI_Agent-red?style=for-the-badge)
@@ -14,19 +17,19 @@
 
 В релизе вы получаете готовую папку `KRIK_Client/`. Исходный код не публикуется, только скомпилированные бинарные файлы.
 
-| Файл | Описание |
-| :--- | :--- |
-| `start.exe` | **Лаунчер.** Запускает Minecraft с аргументами агента и инжектором. |
-| `install.exe` | **Установщик.** Загружает зависимости Minecraft 1.16.5 (assets, libraries), если их нет. |
-| `KRIK_3.1.0.dll` | **Ядро чита.** Скомпилированная JVM TI библиотека (нативный код). |
-| `nickname.TXT` | **Конфиг.** Файл для указания вашего никнейма перед запуском. |
-| `authlib-injector.jar` | **Authlib.** Позволяет играть без лицензии и видеть скины (Ely.by). |
+| Файл | Описание | Язык |
+| :--- | :--- | :--- |
+| `start.exe` | **Лаунчер.** Запускает Minecraft с аргументами агента и инжектором. | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) |
+| `install.exe` | **Установщик.** Загружает зависимости Minecraft 1.16.5. | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) |
+| `KRIK_3.1.0.dll` | **Ядро чита.** Скомпилированная JVM TI библиотека. | ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white) |
+| `nickname.TXT` | **Конфиг.** Файл для указания вашего никнейма перед запуском. | — |
+| `authlib-injector.jar` | **Authlib.** Позволяет играть без лицензии и видеть скины. | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white) |
 
 ---
 
 ## 🚀 Установка и Запуск
 
-1.  **Скачайте архив** с последнего релиза или из Telegram канала @KRIK_TGK
+1.  **Скачайте архив** с последнего релиза или из Telegram канала [@KRIK_TGK](https://t.me/KRIK_TGK)
 2.  Распакуйте папку `KRIK_Client` в удобное место.
 3.  Запустите **`install.exe`**, чтобы скачать необходимые библиотеки и файлы Minecraft 1.16.5 (нужно сделать один раз).
 4.  Откройте файл **`nickname.TXT`** и впишите туда желаемый никнейм.
@@ -45,8 +48,3 @@
 
 * **📱 Telegram канал:** [@KRIK_TGK](https://t.me/KRIK_TGK)
 * **📥 Скачать релиз:** [GitHub Releases](https://github.com/MrNektoKrutoi/KRIK-Client/releases)
-
----
-
-### 📦 Прямая ссылка на загрузку
-[Скачать KRIK Client v1.16.5](https://github.com/MrNektoKrutoi/KRIK-Client/releases/download/1.16.5/KRIK_Client.zip)
