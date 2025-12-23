@@ -35,4 +35,4 @@
 
 ---
 
-* **📥 Последний релиз:** [GitHub Releases](https://github.com/MrNektoKrutoi/KRIK-Client/releases)
+* [GitHub Releases](https://github.com/MrNektoKrutoi/KRIK-Client/releases)
